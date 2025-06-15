@@ -22,12 +22,12 @@
 
 | Theme | Preview | Download |
 |-------|---------|----------|
-| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [📦 linux-bootfx_magisk.zip](dist/linux-bootfx_magisk.zip) |
-| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [📦 nethunter-bootfx_magisk.zip](dist/nethunter-bootfx_magisk.zip) |
-| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [📦 shield-bootfx_magisk.zip](dist/shield-bootfx_magisk.zip) |
-| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [📦 simpsons-bootfx_magisk.zip](dist/simpsons-bootfx_magisk.zip) |
-| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [📦 apple-bootfx_magisk.zip](dist/apple-bootfx_magisk.zip) |
-| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.png) | [📦 ctos-bootfx_magisk.zip](dist/ctos-bootfx_magisk.zip) |
+| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [📦 linux-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/linux-bootfx_magisk.zip) |
+| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [📦 nethunter-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/nethunter-bootfx_magisk.zip) |
+| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [📦 shield-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/shield-bootfx_magisk.zip) |
+| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [📦 simpsons-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/simpsons-bootfx_magisk.zip) |
+| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [📦 apple-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/apple-bootfx_magisk.zip) |
+| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.png) | [📦 ctos-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/ctos-bootfx_magisk.zip) |
 | **more coming soon!** ...| | | |
 ## 🚀 Installation
 
