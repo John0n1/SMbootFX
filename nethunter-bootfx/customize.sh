@@ -8,16 +8,11 @@ LATESTARTSERVICE=true
 
 # Function to print messages
 print_modname() {
-  ui_print ""
-  ui_print "*******************************"
-  ui_print "       SMbootFX 2.0.0          "
-  ui_print "         by John0n1            "
-  ui_print "*******************************"
-  ui_print ""
-  ui_print "https://github.com/John0n1/SMbootFX"
-  ui_print ""
-  ui_print "Setting up custom bootanimation..."
-  ui_print ""
+  ui_print " ╔═════════════════════════════╗ "
+  ui_print " │       SMbootFX 2.0.0        │ "
+  ui_print " │         by John0n1          │ "
+  ui_print " │ https://github.com/John0n1/ │ "
+  ui_print " ╚═════════════════════════════╝ "
 }
 
 # Function to check device compatibility
@@ -43,7 +38,6 @@ check_compatibility() {
     ui_print "✓ Android version compatible"
   fi
 }
-
 
 # Function to backup original files
 backup_originals() {
@@ -73,22 +67,16 @@ on_install() {
   print_modname
   check_compatibility
   backup_originals
-
-   ui_print "- Installing CTOS boot animation..."
-   ui_print ""
-   ui_print "- Backup confirmed ✓"
-   ui_print ""
-   ui_print "- BOOTMODE is LATESTARTSERVICE=true ✓"
-   ui_print ""
-   ui_print "- Device is SΛMSUNG ✓"
-   ui_print ""
-   ui_print "- Installation complete! ✓"
-   ui_print "- Reboot to apply changes"
-   ui_print ""
+  
+  ui_print "- Installing Linux boot animation..."
+  ui_print "- Files will be overlayed via Magisk"
+  ui_print "- Reboot to apply changes"
+  ui_print ""
+  ui_print "Installation complete!"
 }
 
 # Set permissions
 set_permissions() {
-  set_perm_recursive $MODPATH 0 0 0755 0644 
-  set_perm $MODPATH/service.sh 0 0 0755 
+  set_perm_recursive $MODPATH 0 0 0755 0644
+  set_perm $MODPATH/service.sh 0 0 0755
 }
