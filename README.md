@@ -3,7 +3,7 @@
 **Boot animation for Samsung device Magisk**
 
 - Custom boot animations for Samsung devices via separate Magisk modules. 
-- The modules replace the default boot animation with themed animations, providing a unique startup experience.
+- The modules replace the default boot animation with themed animations, providing a unique startup/shutdown experience.
 
 ## Requirements  
 - *[![Magisk 26+](https://img.shields.io/badge/Magisk%2026%2B-black?style=flat&&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)*
@@ -17,12 +17,12 @@
 
 | Theme | Preview | Download |
 |-------|---------|----------|
-| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [📦 linux-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/linux-bootfx_magisk.zip) |
-| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [📦 nethunter-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/nethunter-bootfx_magisk.zip) |
-| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [📦 shield-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/shield-bootfx_magisk.zip) |
-| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [📦 simpsons-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/simpsons-bootfx_magisk.zip) |
-| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [📦 apple-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/apple-bootfx_magisk.zip) |
-| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [📦 ctos-bootfx_magisk.zip](https://github.com/John0n1/on1-bootfx/releases/tag/v1.5.2/ctos-bootfx_magisk.zip) |
+| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [ linux-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/linux-bootfx-2.0.0-magisk.zip) |
+| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [ nethunter-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/nethunter-bootfx-2.0.0-magisk.zip) |
+| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [ shield-bootfx-2.0.0-magisk.zip](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/shield-bootfx-2.0.0-magisk.zip) |
+| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [ simpsons-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/simpsons-bootfx-2.0.0-magisk.zip) |
+| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/apple-bootfx-2.0.0-magisk.zip) |
+| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/ctos-bootfx-2.0.0-magisk.zip) |
 | **more coming soon!** ...| | | |
 
 ## **Important distinction**
