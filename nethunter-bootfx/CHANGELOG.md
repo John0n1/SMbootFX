@@ -1,6 +1,6 @@
 # Kali Boot Animation Changelog
 
-## v1.5.2 (Initial Release)
+## 2.0.0 SMbootFX
 - Initial release of Nethunter boot animation
 - Custom bootsamsung.qmg, bootsamsungloop.qmg, and shutdown.qmg
 - Automatic backup and restore functionality
