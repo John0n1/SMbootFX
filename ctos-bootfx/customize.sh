@@ -16,9 +16,9 @@ print_modname() {
   ui_print ""
   ui_print "https://github.com/John0n1/SMbootFX"
   ui_print ""
-  sleep 2
+  
   ui_print "Setting up custom bootanimation..."
-  sleep 2
+  
   ui_print ""
 }
 
@@ -34,11 +34,11 @@ check_compatibility() {
   if [ "$BRAND" != "samsung" ]; then
     ui_print "! WARNING: This module is designed for Samsung devices"
     ui_print "! Proceed with caution..."
-    sleep 3
+    
   elif [ "$BRAND" == "samsung" ]; then
     ui_print "! Your device brand: $BRAND"
     ui_print "! Continue at your own risk..."
-    sleep 3
+    
   else
     ui_print "✓ Samsung device detected"
   fi
@@ -93,17 +93,17 @@ on_install() {
   ui_print ""
   ui_print "- Device is $DEVICE ✓"
   ui_print ""
-  sleep 2
+  
   backup_originals
   ui_print ""
   ui_print "- Backup confirm ✓"
-  sleep 2
+  
   ui_print ""
   ui_print "- Installing boot animation..."
-  sleep 1
+  
   ui_print "- Files will be overlaid via Magisk"
   ui_print ""
-  sleep 2
+  
   ui_print "- Reboot to apply changes"
   ui_print ""
   ui_print "Installation complete! ✓"
@@ -113,9 +113,6 @@ on_install() {
 
 # Set permissions
 set_permissions() {
-  set_perm_recursive $MODPATH 0 0 0755 0644 u:object_r:system_file:s0
-  set_perm $MODPATH/service.sh 0 0 0755 u:object_r:system_file:s0
+  set_perm_recursive $MODPATH 0 0 0755 0644
+  set_perm $MODPATH/service.sh 0 0 0755
 }
-
-# Call the main installation function
-on_install
