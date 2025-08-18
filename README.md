@@ -24,7 +24,6 @@
 | **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [ shield-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/shield-bootfx-2.0.1-magisk.zip) |
 | **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [ simpsons-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/simpsons-bootfx-2.0.1-magisk.zip) |
 | **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/apple-bootfx-2.0.1-magisk.zip) |
-
 | **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ctos-bootfx-2.0.1-magisk.zip) |
 | **more coming soon!** ...| | | |
 
