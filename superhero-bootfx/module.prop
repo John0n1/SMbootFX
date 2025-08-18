@@ -1,0 +1,7 @@
+id=superhero_boot_qmg
+name=superhero bootFX
+version=2.0.1
+versionCode=201
+author=John0n1
+description=Superhero (Marvel) themed boot & shutdown animations for Samsung devices via Magisk overlay
+updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/superhero-bootfx/update.json

@@ -1,0 +1,7 @@
+id=ea_boot_qmg
+name=EA bootFX
+version=2.0.1
+versionCode=201
+author=John0n1
+description=EA themed boot & shutdown animations for Samsung devices via Magisk overlay
+updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/ea-bootfx/update.json

@@ -17,12 +17,15 @@
 
 | Theme | Preview | Download |
 |-------|---------|----------|
-| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [ linux-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/linux-bootfx-2.0.0-magisk.zip) |
-| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [ nethunter-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/nethunter-bootfx-2.0.0-magisk.zip) |
-| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [ shield-bootfx-2.0.0-magisk.zip](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/shield-bootfx-2.0.0-magisk.zip) |
-| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [ simpsons-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/simpsons-bootfx-2.0.0-magisk.zip) |
-| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/apple-bootfx-2.0.0-magisk.zip) |
-| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.0-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.0/ctos-bootfx-2.0.0-magisk.zip) |
+| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [ linux-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/linux-bootfx-2.0.1-magisk.zip) |
+| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [ nethunter-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/nethunter-bootfx-2.0.1-magisk.zip) |
+| **Superhero** | ![Superhero Preview](examples/superhero-bootfx.gif) | [ superhero-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/superhero-bootfx-2.0.1-magisk.zip) |
+| **EA** | ![EA Preview](examples/ea-bootfx.gif) | [ ea-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ea-bootfx-2.0.1-magisk.zip) |
+| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [ shield-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/shield-bootfx-2.0.1-magisk.zip) |
+| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [ simpsons-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/simpsons-bootfx-2.0.1-magisk.zip) |
+| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/apple-bootfx-2.0.1-magisk.zip) |
+
+| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ctos-bootfx-2.0.1-magisk.zip) |
 | **more coming soon!** ...| | | |
 
 ## **Important distinction**

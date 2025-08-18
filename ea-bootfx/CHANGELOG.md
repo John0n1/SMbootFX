@@ -1,7 +1,7 @@
-# Linux Boot Animation Changelog
+# EA Boot Animation Changelog
 
 ## 2.0.1 SMbootFX
-- Initial release of classic Linux themed boot animation
+- Initial release of EA-Games themed boot animation
 - Custom bootsamsung.qmg, bootsamsungloop.qmg, and shutdown.qmg
 - Automatic backup and restore functionality
 - Device compatibility checking
