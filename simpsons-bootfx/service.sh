@@ -1,9 +1,9 @@
 #!/system/bin/sh
-# Apple Boot Animation Service Script
+# Simpsons Boot Animation Service Script
 # This runs during boot to ensure proper animation loading
 
 # Log boot animation load
-echo "$(date): Apple boot animation loaded" >> /data/local/tmp/bootfx.log
+echo "$(date): Simpsons boot animation loaded" >> /data/local/tmp/bootfx.log
 
 # Verify animation files exist
 if [ ! -f "/system/media/bootsamsung.qmg" ]; then
@@ -11,4 +11,4 @@ if [ ! -f "/system/media/bootsamsung.qmg" ]; then
 fi
 
 # Optional: Set specific properties for this theme
-resetprop ro.bootanim.theme "apple"
+resetprop ro.bootanim.theme "simpsons"
