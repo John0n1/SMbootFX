@@ -10,7 +10,7 @@ LATESTARTSERVICE=true
 print_modname() {
   ui_print ""
   ui_print "*******************************"
-  ui_print "       SMbootFX 2.0.0          "
+  ui_print "       SMbootFX 2.0.1          "
   ui_print "         by John0n1            "
   ui_print "*******************************"
   ui_print ""
