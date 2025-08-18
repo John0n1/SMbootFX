@@ -1,7 +1,0 @@
-id=simpsons_boot_qmg
-name=Simpsons bootFX
-version=2.0.0
-versionCode=200
-author=John0n1
-description=The Simpsons themed boot & shutdown animations for Samsung devices via Magisk overlay
-updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/simpsons-bootfx/update.json
