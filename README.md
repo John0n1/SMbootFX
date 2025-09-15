@@ -1,8 +1,7 @@
 # Samsung Boot Animation Module
 
-**Boot animation for Samsung device Magisk**
+**Boot animations for Samsung Galaxy devices via Magisk**
 
-- Custom boot animations for Samsung devices via separate Magisk modules. 
 - The modules replace the default boot animation with themed animations, providing a unique startup/shutdown experience.
 
 ## Requirements  
