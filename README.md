@@ -1,4 +1,4 @@
-# Samsung Boot Animation Module
+# Samsung Boot Animations
 
 **Boot animations for Samsung Galaxy devices via Magisk**
 
@@ -24,6 +24,7 @@
 | **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [ simpsons-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/simpsons-bootfx-2.0.1-magisk.zip) |
 | **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/apple-bootfx-2.0.1-magisk.zip) |
 | **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ctos-bootfx-2.0.1-magisk.zip) |
+| **Android** | ![Android Preview](examples/android-bootfx.gif) | [ android-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/android-bootfx-2.0.1-magisk.zip) |
 | **more coming soon!** ...| | | |
 
 ## **Important distinction**
