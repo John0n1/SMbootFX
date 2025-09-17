@@ -1,0 +1,7 @@
+id=android_boot_qmg
+name=Android bootFX
+version=2.0.1
+versionCode=201
+author=John0n1
+description=Android boot & shutdown animations for Samsung devices via Magisk overlay
+updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/android-bootfx/update.json
