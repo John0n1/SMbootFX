@@ -1,65 +1,66 @@
-# SMbootFX - Samsung Boot Animations
+# SMbootFX - Custom Samsung Boot Animations
 
-- *Implements custom boot animations (.QMG) on Samsung Galaxy devices through Magisk.*
+Implements custom boot animations in .QMG format on Samsung Galaxy devices using Magisk. These modules replace the default boot animation with themed ones, offering a personalized startup and shutdown experience.
 
-- *The modules replace the default boot animation with themed animations, providing a unique startup/shutdown experience.*
+## Requirements
+- [![Magisk 26+](https://img.shields.io/badge/Magisk%2026%2B-black?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
+- [![Android 10 to 16](https://img.shields.io/badge/Android%2010%20to%2016-black?style=flat&logo=android&logoColor=green)](https://www.android.com)
+- [![Samsung Galaxy S20 to S25](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20to%20S25-black?style=flat&logo=samsung&logoColor=white)](https://samsung.com)
 
-## Requirements  
-- *[![Magisk 26+](https://img.shields.io/badge/Magisk%2026%2B-black?style=flat&&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)*
+## Available Themes
 
-- *[![Android 10>16](https://img.shields.io/badge/Android%2010%3E16-black?style=flat&logo=android&logoColor=green)](https://www.android.com)*      
+| Theme | Preview | Download | Made By |
+|-------|---------|----------|---------|
+| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [linux-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/linux-bootfx-2.0.1-magisk.zip) | Unknown |
+| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [nethunter-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/nethunter-bootfx-2.0.1-magisk.zip) | **(kali.org)** OffSec Services |
+| **Superhero** | ![Superhero Preview](examples/superhero-bootfx.gif) | [superhero-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/superhero-bootfx-2.0.1-magisk.zip) | **(XDA)** goforce87 |
+| **EA** | ![EA Preview](examples/ea-bootfx.gif) | [ea-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/ea-bootfx-2.0.1-magisk.zip) | Unknown |
+| **S.H.I.E.L.D.** | ![S.H.I.E.L.D. Preview](examples/shield-bootfx.gif) | [shield-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/shield-bootfx-2.0.1-magisk.zip) | Unknown |
+| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [simpsons-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/simpsons-bootfx-2.0.1-magisk.zip) | **(XDA)** JaeKarr99 & KachowPow |
+| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [apple-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/apple-bootfx-2.0.1-magisk.zip) | Unknown |
+| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ctos-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/ctos-bootfx-2.0.1-magisk.zip) | **(kali.org)** OffSec Services *?*  |
+| **Android Purple** | ![Android Purple Preview](examples/android-purple-bootfx.gif) | [android-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/android-bootfx-2.0.1-magisk.zip) | **(XDA)** Melissa Pugs |
+| **Android Red** | ![Android Red Preview](examples/android-bootfx.gif) | [android-red-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/android-red-bootfx-2.0.1-magisk.zip) | **(XDA)** Melissa Pugs |
+| **AOKP** | ![AOKP Preview](examples/aokp-bootfx.gif) | [aokp-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.1/aokp-bootfx-2.0.1-magisk.zip) | **(XDA)** PartimusPrime |
+| **More coming soon!** | | | |
 
-- *[![Samsung Galaxy](https://img.shields.io/badge/Samsung%20Galaxy%20s20>25-black?style=flat&logo=samsung&logoColor=white)](https://samsung.com)*
+## Important Distinctions
 
+1. This project targets the **boot animation** that plays after the bootloader logo, during the Android system startup.
+2. Newer Samsung devices use the .QMG ("Quick Media Graphics") format, which is **not compatible** with non-Samsung devices.
+3. These Magisk modules provide custom animations in a compatible .QMG format.
+4. Modules include an auto-backup feature to safeguard your original Samsung boot animation files.
 
-## Available Themes  
+## How It Works
 
-| Theme | Preview | Download |
-|-------|---------|----------|
-| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [ linux-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/linux-bootfx-2.0.1-magisk.zip) |
-| **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [ nethunter-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/nethunter-bootfx-2.0.1-magisk.zip) |
-| **Superhero** | ![Superhero Preview](examples/superhero-bootfx.gif) | [ superhero-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/superhero-bootfx-2.0.1-magisk.zip) |
-| **EA** | ![EA Preview](examples/ea-bootfx.gif) | [ ea-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ea-bootfx-2.0.1-magisk.zip) |
-| **S.H.I.E.L.D** | ![Shield Preview](examples/shield-bootfx.gif) | [ shield-bootfx-2.0.1-magisk.zip](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/shield-bootfx-2.0.1-magisk.zip) |
-| **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [ simpsons-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/simpsons-bootfx-2.0.1-magisk.zip) |
-| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/apple-bootfx-2.0.1-magisk.zip) |
-| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ctos-bootfx-2.0.1-magisk.zip) |
-| **Android** | ![Android Preview](examples/android-bootfx.gif) | [ android-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/android-bootfx-2.0.1-magisk.zip) |
-| **AOKP** | ![AOKP Preview](examples/aokp-bootfx.gif) | [ aokp-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/aokp-bootfx-2.0.1-magisk.zip) |
-| **more coming soon!** ...| | | |
+1. Magisk hooks into the system partition and uses its late-start service to systemlessly overlay the replacement boot animation files.
+2. The module automatically backs up the original files for easy restoration if needed.
 
-## **Important distinction**
+## Installation Guide
 
-1. This project specifically targets the **boot animation** that plays after the bootloader logo, during the Android system startup process.
+1. **Download** your chosen boot animation module from the table above.
+2. **Open** the Magisk app.
+3. **Install** the module via Magisk's "Modules" section (select "Install from storage").
+4. **Reboot** your device.
+5. **Enjoy** the new boot animation!
 
-2. Newer Samsung devices uses .QMG or "*Quick Media Graphics*" boot animation format, which is **not** compatible with **non-samsung** devices. 
+## Important Notes
 
-3. This project provides Magisk modules that replace the default boot animation with custom animations in a **compatible QMG format**
-  
-4. The modules include an auto-backup feature to protect  the original samsung boot animation files in case any issues arise.
+- Install only **one boot animation module** at a time.
+- **Uninstall** any previous boot animation modules before installing a new one.
+- Compatible with **Samsung devices only**.
+- The **auto-backup** feature protects your original files.
+- Use at your own risk—always back up your device before modifying system files.
 
-## How it works
+## Troubleshooting
 
-1. Magisk hooks into the system partition and uses its late start service phase to systemlessly mount replacement boot animation files over the original ones.
-   
-2. The module will auto-backup the original samsung boot animation files in case any issues arise.
+- If the animation doesn't change, ensure Magisk is properly installed and the module is enabled.
+- For installation issues, check Magisk logs or try reinstalling the module.
+- If problems persist, disable the module in Magisk and reboot to restore the original animation.
 
-## Installation
+## Contributions and Requests
 
-1. **Download** your preferred boot animation
-2. **Open** Magisk Manager
-3. **Install** preferred module via Magisk
-4. **Reboot** your device
-5. **Enjoy** your new boot animation!
-
-##  Important Notes
-
-- Only install **one boot animation** at a time
-- **Uninstall** previous animation modules before installing new ones
-- Compatible with **Samsung devices only**
-- **Auto-backup** feature protects your original files
-
-- Use at your own risk.
+Feel free to open an issue for bug reports, feature requests, or new theme suggestions. Pull requests are welcome for new themes or improvements!
 
 ## License
 
