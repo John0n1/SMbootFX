@@ -25,7 +25,7 @@
 | **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/apple-bootfx-2.0.1-magisk.zip) |
 | **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ctos-bootfx-2.0.1-magisk.zip) |
 | **Android** | ![Android Preview](examples/android-bootfx.gif) | [ android-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/android-bootfx-2.0.1-magisk.zip) |
-| **AOSP** | ![AOSP Preview](examples/aosp-bootfx.gif) | [ aosp-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/aosp-bootfx-2.0.1-magisk.zip) |
+| **AOKP** | ![AOKP Preview](examples/aokp-bootfx.gif) | [ aokp-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/aokp-bootfx-2.0.1-magisk.zip) |
 | **more coming soon!** ...| | | |
 
 ## **Important distinction**
