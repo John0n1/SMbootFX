@@ -1,15 +1,15 @@
-# Samsung Boot Animations
+# SMbootFX - Samsung Boot Animations
 
-**Boot animations for Samsung Galaxy devices via Magisk**
+- *Implements custom boot animations (.QMG) on Samsung Galaxy devices through Magisk.*
 
-- The modules replace the default boot animation with themed animations, providing a unique startup/shutdown experience.
+- *The modules replace the default boot animation with themed animations, providing a unique startup/shutdown experience.*
 
 ## Requirements  
 - *[![Magisk 26+](https://img.shields.io/badge/Magisk%2026%2B-black?style=flat&&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)*
 
 - *[![Android 10>16](https://img.shields.io/badge/Android%2010%3E16-black?style=flat&logo=android&logoColor=green)](https://www.android.com)*      
 
-- *[![Samsung Galagy](https://img.shields.io/badge/Samsung%20Galaxy%20s20>25-black?style=flat&logo=samsung&logoColor=white)](https://samsung.com)*
+- *[![Samsung Galaxy](https://img.shields.io/badge/Samsung%20Galaxy%20s20>25-black?style=flat&logo=samsung&logoColor=white)](https://samsung.com)*
 
 
 ## Available Themes  
@@ -25,18 +25,23 @@
 | **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [ apple-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/apple-bootfx-2.0.1-magisk.zip) |
 | **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ ctos-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/ctos-bootfx-2.0.1-magisk.zip) |
 | **Android** | ![Android Preview](examples/android-bootfx.gif) | [ android-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/android-bootfx-2.0.1-magisk.zip) |
+| **AOSP** | ![AOSP Preview](examples/aosp-bootfx.gif) | [ aosp-bootfx-2.0.1-magisk.zip ](https://github.com/John0n1/SMbootFX/releases/tag/2.0.1/aosp-bootfx-2.0.1-magisk.zip) |
 | **more coming soon!** ...| | | |
 
 ## **Important distinction**
-The **bootloader logo** (the very first logo that appears when you power on your device) is stored in the bootloader partition and is typically **not changeable**, even with root access. This logo is hardware-level and locked down by the manufacturer.
-This project specifically targets the **boot animation** that plays after the bootloader logo, during the Android system startup process.
-Samsung typically uses their own proprietary .QMG or "*Quick Media Graphics*" boot animation format, which is not compatible with non-samsung devices. 
-This project provides Magisk modules that replace the default boot animation with custom animations in a compatible QMG format. 
-The modules also include an auto-backup feature to protect  the original samsung boot animation files in case any issues arise.
+
+1. This project specifically targets the **boot animation** that plays after the bootloader logo, during the Android system startup process.
+
+2. Newer Samsung devices uses .QMG or "*Quick Media Graphics*" boot animation format, which is **not** compatible with **non-samsung** devices. 
+
+3. This project provides Magisk modules that replace the default boot animation with custom animations in a **compatible QMG format**
+  
+4. The modules include an auto-backup feature to protect  the original samsung boot animation files in case any issues arise.
 
 ## How it works
 
 1. Magisk hooks into the system partition and uses its late start service phase to systemlessly mount replacement boot animation files over the original ones.
+   
 2. The module will auto-backup the original samsung boot animation files in case any issues arise.
 
 ## Installation
