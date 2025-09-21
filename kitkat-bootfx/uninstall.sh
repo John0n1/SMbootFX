@@ -1,7 +1,7 @@
 #!/sbin/sh
 
-# Boot Animation Uninstaller
-ui_print "- Removing boot animation..."
+# Superhero Boot Animation Uninstaller
+ui_print "- Removing superhero boot animation..."
 
 # Restore backups if they exist
 BACKUP_DIR="/data/local/tmp/bootfx_backup"
@@ -32,5 +32,5 @@ fi
 # Clean up logs
 rm -f /data/local/tmp/bootfx.log
 
-ui_print "- Android boot animation removed successfully"
+ui_print "- Superhero boot animation removed successfully"
 ui_print "- Reboot to apply changes"
