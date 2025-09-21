@@ -11,17 +11,18 @@ Implements custom boot animations in .QMG format on Samsung Galaxy devices using
 
 | Theme | Preview | Download | Made By |
 |-------|---------|----------|---------|
-| **Linux** | ![Linux Preview](examples/linux-bootfx.gif) | [linux-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/linux-bootfx-2.0.2-magisk.zip) | Unknown |
 | **NetHunter** | ![NetHunter Preview](examples/nethunter-bootfx.gif) | [nethunter-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/nethunter-bootfx-2.0.2-magisk.zip) | **(kali.org)** OffSec Services |
+| **CTOS - Watchdogs** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ctos-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/ctos-bootfx-2.0.2-magisk.zip) | **(kali.org)** OffSec Services *?*  |
+| **Android - Purple** | ![Android Purple Preview](examples/android-purple-bootfx.gif) | [android-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/android-bootfx-2.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
+| **Android - Red** | ![Android Red Preview](examples/android-bootfx.gif) | [android-red-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/android-red-bootfx-2.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
+| **KitKat - Android Easter Egg** | ![KitKat Preview](examples/kitkat-bootfx.gif) | [kitkat-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/kitkat-bootfx-2.0.2-magisk.zip) | Unknown |
+| **AOKP** | ![AOKP Preview](examples/aokp-bootfx.gif) | [aokp-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/aokp-bootfx-2.0.2-magisk.zip) | **(XDA)** PartimusPrime |
 | **Superhero** | ![Superhero Preview](examples/superhero-bootfx.gif) | [superhero-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/superhero-bootfx-2.0.2-magisk.zip) | **(XDA)** goforce87 |
-| **EA** | ![EA Preview](examples/ea-bootfx.gif) | [ea-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/ea-bootfx-2.0.2-magisk.zip) | Unknown |
+| **EA Game's** | ![EA Preview](examples/ea-bootfx.gif) | [ea-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/ea-bootfx-2.0.2-magisk.zip) | Unknown |
 | **S.H.I.E.L.D.** | ![S.H.I.E.L.D. Preview](examples/shield-bootfx.gif) | [shield-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/shield-bootfx-2.0.2-magisk.zip) | Unknown |
 | **Simpsons** | ![Simpsons Preview](examples/simpsons-bootfx.gif) | [simpsons-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/simpsons-bootfx-2.0.2-magisk.zip) | **(XDA)** JaeKarr99 & KachowPow |
-| **Apple** | ![Apple Preview](examples/apple-bootfx.png) | [apple-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/apple-bootfx-2.0.2-magisk.zip) | Unknown |
-| **CTOS** | ![CTOS Preview](examples/ctos-bootfx.gif) | [ctos-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/ctos-bootfx-2.0.2-magisk.zip) | **(kali.org)** OffSec Services *?*  |
-| **Android Purple** | ![Android Purple Preview](examples/android-purple-bootfx.gif) | [android-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/android-bootfx-2.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **Android Red** | ![Android Red Preview](examples/android-bootfx.gif) | [android-red-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/android-red-bootfx-2.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **AOKP** | ![AOKP Preview](examples/aokp-bootfx.gif) | [aokp-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/aokp-bootfx-2.0.2-magisk.zip) | **(XDA)** PartimusPrime |
+| **Apple - Static** | ![Apple Preview](examples/apple-bootfx.png) | [apple-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/apple-bootfx-2.0.2-magisk.zip) | Unknown |
+| **Linux/Android** | ![Linux Preview](examples/linux-bootfx.gif) | [linux-bootfx-2.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.0.2/linux-bootfx-2.0.2-magisk.zip) | Unknown |
 | **More coming soon!** | | | |
 
 ## Important Distinctions
