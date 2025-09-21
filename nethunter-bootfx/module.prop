@@ -1,7 +1,7 @@
 id=nethunter_boot_qmg
-name=NetHunter bootFX
-version=2.0.1
-versionCode=201
+name=NetHunter SMbootFX
+version=2.0.2
+versionCode=202
 author=John0n1
 description=NetHunter boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/nethunter-bootfx/update.json
