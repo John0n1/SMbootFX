@@ -1,6 +1,6 @@
 # Boot Animation Changelog
 
-## 2.0.2 SMbootFX
+## 2.0.3 SMbootFX
 * 21.09.2025 21:11
 *   Expanded boot animation library with the addition of four new animations.
 *   Enhanced backup functionality for improved reliability.

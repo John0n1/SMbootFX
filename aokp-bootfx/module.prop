@@ -1,7 +1,7 @@
 id=aokp_boot_qmg
 name=AOKP bootFX
-version=2.0.2
-versionCode=202
+version=2.0.3
+versionCode=203
 author=John0n1
 description=AOKP boot and shutdown animations for Samsung devices, utilizing Magisk overlay.
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/aokp-bootfx/update.json

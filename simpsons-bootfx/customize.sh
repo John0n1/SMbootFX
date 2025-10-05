@@ -9,7 +9,7 @@ LATESTARTSERVICE=true
 # Function to print messages
 print_modname() {
   ui_print " ╔═════════════════════════════╗ "
-  ui_print " │       SMbootFX 2.0.1        │ "
+  ui_print " │       SMbootFX 2.0.3        │ "
   ui_print " │         by John0n1          │ "
   ui_print " │ https://github.com/John0n1/ │ "
   ui_print " ╚═════════════════════════════╝ "
@@ -68,7 +68,7 @@ on_install() {
   check_compatibility
   backup_originals
   
-  ui_print "- Installing Linux boot animation..."
+  ui_print "- Installing Simpsons boot animation..."
   ui_print "- Files will be overlayed via Magisk"
   ui_print "- Reboot to apply changes"
   ui_print ""
