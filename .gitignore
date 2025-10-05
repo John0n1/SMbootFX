@@ -1,0 +1,3 @@
+zipfiles/*
+.venv/*
+delete-before-commit/

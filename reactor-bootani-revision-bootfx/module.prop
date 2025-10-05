@@ -1,0 +1,7 @@
+id=reactor_bootani_revision_boot_qmg
+name=Reactor BootAni (Revision) SMbootFX
+version=2.0.3
+versionCode=203
+author=John0n1
+description=Reactor BootAni (Revision) boot & shutdown animations for Samsung devices via Magisk overlay
+updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/reactor-bootani-revision-bootfx/update.json
