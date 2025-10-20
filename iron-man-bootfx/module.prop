@@ -1,7 +1,7 @@
 id=iron_man_boot_qmg
 name=Iron Man SMbootFX
-version=2.0.3
-versionCode=203
+version=2.1.0
+versionCode=210
 author=John0n1
 description=Iron Man boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/iron-man-bootfx/update.json
