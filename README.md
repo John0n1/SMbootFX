@@ -3,7 +3,7 @@
 Implements custom boot animations in .QMG format on Samsung Galaxy devices using Magisk. These modules replace the default boot animation with themed ones, offering a personalized startup and shutdown experience.
 
 ## Requirements
-- [![Magisk 28+](https://img.shields.io/badge/Magisk%2028%2B-black?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
+- [![Magisk 29+](https://img.shields.io/badge/Magisk%2029%2B-black?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
 
 - [![Samsung](https://img.shields.io/badge/Samsung-000000?style=flat&logo=samsung&logoColor=white)](https://samsung.com) - **See [Supported Devices](#supported-devices)**
 

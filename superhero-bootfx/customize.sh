@@ -6,113 +6,138 @@ PROPFILE=false
 POSTFSDATA=false
 LATESTARTSERVICE=true
 
+LOGFILE="/data/local/tmp/bootfx_install.log"
+
+# Enhanced logging function
+log_install() {
+  echo "$(date '+%Y-%m-%d %H:%M:%S') [INSTALL] $1" >> "$LOGFILE"
+  ui_print "$1"
+}
+
 # Function to print messages
 print_modname() {
-  ui_print ""
-  ui_print "*******************************"
-  ui_print "       SMbootFX 2.0.3          "
-  ui_print "         by John0n1            "
-  ui_print "*******************************"
-  ui_print ""
-  ui_print "https://github.com/John0n1/SMbootFX"
-  ui_print ""
+  ui_print " ╔═════════════════════════════╗ "
+  ui_print " │       SMbootFX 2.1.0        │ "
+  ui_print " │         by John0n1          │ "
+  ui_print " │ https://github.com/John0n1/ │ "
+  ui_print " ╚═════════════════════════════╝ "
+  log_install "=== SMbootFX Installation Started ==="
+}
+
+# Function to check Magisk version
+check_magisk_version() {
+  log_install "Checking Magisk version..."
   
-  ui_print "Setting up custom bootanimation..."
-  
-  ui_print ""
+  if [ -n "$MAGISK_VER_CODE" ] && [ "$MAGISK_VER_CODE" -ge 29000 ]; then
+    log_install "✓ Magisk version compatible: $MAGISK_VER"
+  elif [ -n "$MAGISK_VER_CODE" ]; then
+    ui_print "! WARNING: Magisk 29+ recommended (Current: $MAGISK_VER)"
+    log_install "WARNING: Magisk version $MAGISK_VER is below recommended 29+"
+    ui_print "! Continue at your own risk..."
+    sleep 2
+  else
+    ui_print "! WARNING: Could not detect Magisk version"
+    log_install "WARNING: Could not detect Magisk version"
+  fi
 }
 
 # Function to check device compatibility
 check_compatibility() {
-  ui_print "- Entering check_compatibility..."
-  ui_print ""
-  ui_print "- Checking device compatibility..."
+  log_install "Checking device compatibility..."
   
   # Check if Samsung device
   BRAND=$(getprop ro.product.brand)
-  ui_print "- Device brand: $BRAND"
+  DEVICE=$(getprop ro.product.model)
+  log_install "Device brand: $BRAND"
+  log_install "Device model: $DEVICE"
+  
   if [ "$BRAND" != "samsung" ]; then
     ui_print "! WARNING: This module is designed for Samsung devices"
-    ui_print "! Proceed with caution..."
-    
-  elif [ "$BRAND" == "samsung" ]; then
     ui_print "! Your device brand: $BRAND"
     ui_print "! Continue at your own risk..."
-    
+    log_install "WARNING: Non-Samsung device detected"
+    sleep 3
   else
-    ui_print "✓ Samsung device detected"
+    ui_print "✓ Samsung device detected: $DEVICE"
+    log_install "SUCCESS: Samsung device detected"
   fi
   
   # Check Android version
   SDK=$(getprop ro.build.version.sdk)
-  ui_print "- Android API level: $SDK"
+  ANDROID_VER=$(getprop ro.build.version.release)
+  log_install "Android version: $ANDROID_VER (SDK $SDK)"
+  
   if [ "$SDK" -lt 23 ]; then
-    ui_print "! Android 6.0+ required (Current: API $SDK)"
-    # abort "! Android 6.0+ required (Current: API $SDK)"  # Uncomment if you want to abort on failure
+    log_install "ERROR: Android version too old (SDK $SDK)"
+    abort "! Android 6.0+ required (Current: API $SDK)"
   else
-    ui_print "✓ Android version compatible"
+    ui_print "✓ Android version compatible: $ANDROID_VER"
+    log_install "SUCCESS: Android version compatible"
   fi
 }
 
 # Function to backup original files
 backup_originals() {
-  ui_print "- Entering backup_originals..."
-  ui_print "- Creating backup of original files..."
+  log_install "Creating backup of original files..."
   
   BACKUP_DIR="/data/local/tmp/bootfx_backup"
   mkdir -p "$BACKUP_DIR"
   
+  BACKED_UP=0
+  
   if [ -f "/system/media/bootsamsung.qmg" ]; then
     cp "/system/media/bootsamsung.qmg" "$BACKUP_DIR/bootsamsung.qmg.bak"
     ui_print "✓ bootsamsung.qmg backed up"
-  else
-    ui_print "! bootsamsung.qmg not found"
+    log_install "Backed up: bootsamsung.qmg"
+    BACKED_UP=1
   fi
   
   if [ -f "/system/media/bootsamsungloop.qmg" ]; then
     cp "/system/media/bootsamsungloop.qmg" "$BACKUP_DIR/bootsamsungloop.qmg.bak"
     ui_print "✓ bootsamsungloop.qmg backed up"
-  else
-    ui_print "! bootsamsungloop.qmg not found"
+    log_install "Backed up: bootsamsungloop.qmg"
+    BACKED_UP=1
   fi
   
   if [ -f "/system/media/shutdown.qmg" ]; then
     cp "/system/media/shutdown.qmg" "$BACKUP_DIR/shutdown.qmg.bak"
     ui_print "✓ shutdown.qmg backed up"
-  else
-    ui_print "! shutdown.qmg not found"
+    log_install "Backed up: shutdown.qmg"
+    BACKED_UP=1
   fi
+  
+  if [ $BACKED_UP -eq 0 ]; then
+    log_install "WARNING: No original files found to backup"
+  fi
+  
+  log_install "Backup directory: $BACKUP_DIR"
 }
 
 # Main installation process
 on_install() {
-  ui_print "- BOOTMODE is $BOOTMODE ✓"
   print_modname
-  ui_print ""
+  check_magisk_version
   check_compatibility
-  ui_print ""
-  ui_print "- Device is $DEVICE ✓"
-  ui_print ""
-  
   backup_originals
-  ui_print ""
-  ui_print "- Backup confirm ✓"
   
-  ui_print ""
   ui_print "- Installing boot animation..."
+  log_install "Installing boot animation files via Magisk overlay"
   
-  ui_print "- Files will be overlaid via Magisk"
-  ui_print ""
+  # Log installation details
+  log_install "Module path: $MODPATH"
+  log_install "Module ID: $MODID"
   
+  ui_print "- Files will be overlayed via Magisk"
   ui_print "- Reboot to apply changes"
   ui_print ""
-  ui_print "Installation complete! ✓"
-  ui_print ""
-  ui_print "Thanks for using John0n1's SMbootFX!"
+  ui_print "Installation complete!"
+  log_install "=== SMbootFX Installation Completed Successfully ==="
 }
 
 # Set permissions
 set_permissions() {
+  log_install "Setting file permissions..."
   set_perm_recursive $MODPATH 0 0 0755 0644
   set_perm $MODPATH/service.sh 0 0 0755
+  log_install "File permissions set"
 }
