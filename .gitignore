@@ -1,3 +1,4 @@
 zipfiles/*
 .venv/*
 delete-before-commit/
+release-assets/*.zip
