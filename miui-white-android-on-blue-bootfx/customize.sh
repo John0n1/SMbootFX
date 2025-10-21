@@ -28,12 +28,12 @@ print_modname() {
 check_magisk_version() {
   log_install "Checking Magisk version..."
   
-  if [ -n "$MAGISK_VER_CODE" ] && [ "$MAGISK_VER_CODE" -ge 29000 ]; then
+  if [ -n "$MAGISK_VER_CODE" ] && [ "$MAGISK_VER_CODE" -ge 27000 ]; then
     log_install "✓ Magisk version compatible: $MAGISK_VER"
   elif [ -n "$MAGISK_VER_CODE" ]; then
-    ui_print "! WARNING: Magisk 29+ recommended (Current: $MAGISK_VER)"
-    log_install "WARNING: Magisk version $MAGISK_VER is below recommended 29+"
-    ui_print "! Continue at your own risk..."
+    ui_print "! WARNING: Magisk 27+ required (Current: $MAGISK_VER)"
+    log_install "WARNING: Magisk version $MAGISK_VER is below required 27+"
+    ui_print "! Installation may fail on older versions"
     sleep 2
   else
     ui_print "! WARNING: Could not detect Magisk version"
@@ -62,7 +62,7 @@ check_compatibility() {
     log_install "SUCCESS: Samsung device detected"
   fi
   
-  # Check Android version
+  # Check Android version (Android 6-16, SDK 23-35)
   SDK=$(getprop ro.build.version.sdk)
   ANDROID_VER=$(getprop ro.build.version.release)
   log_install "Android version: $ANDROID_VER (SDK $SDK)"
@@ -70,6 +70,12 @@ check_compatibility() {
   if [ "$SDK" -lt 23 ]; then
     log_install "ERROR: Android version too old (SDK $SDK)"
     abort "! Android 6.0+ required (Current: API $SDK)"
+  elif [ "$SDK" -gt 35 ]; then
+    ui_print "! WARNING: Android version newer than tested (API $SDK)"
+    log_install "WARNING: Android version newer than tested range (6-16)"
+    ui_print "! Module tested up to Android 16"
+    ui_print "! Continue at your own risk..."
+    sleep 2
   else
     ui_print "✓ Android version compatible: $ANDROID_VER"
     log_install "SUCCESS: Android version compatible"
