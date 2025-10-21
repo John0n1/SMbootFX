@@ -1,5 +1,9 @@
 # Boot Animation Changelog
 
+## 2.1.0 SMbootFX
+* 21.10.2025
+*   Updated to version 2.1.0
+
 ## 2.0.3 SMbootFX
 * 04.10.2025
 *   Added the Xbox One boot animation to the SMbootFX collection.
