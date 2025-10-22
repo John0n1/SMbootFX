@@ -1,8 +1,16 @@
 # Boot Animation Changelog
 
+## 2.1.0 SMbootFX
+* 22.10.2025 20:45
+*   Updated module structure for improved Magisk compatibility.
+*   Added enhanced error handling and logging capabilities.
+*   Optimized installation process for better performance.
+*   Fixed compatibility issues with latest Android versions.
+*   Improved backup and restore functionality.
+
 ## 2.0.3 SMbootFX
-* 04.10.2025
-*   Added the Cyanogen Android boot animation to the SMbootFX collection.
+* 21.09.2025 21:11
+*   Expanded boot animation library with the addition of four new animations.
 *   Enhanced backup functionality for improved reliability.
 *   Implemented optimizations across various processes.
 *   Removed redundant components to streamline performance.
