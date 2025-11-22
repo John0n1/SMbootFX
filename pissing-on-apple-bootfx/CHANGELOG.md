@@ -2,9 +2,9 @@
 
 ## 2.2.0 SMbootFX
 * 23.11.2025 09:00
-*   Added "Pissing on Apple" themed boot and shutdown animations.
-*   Synced installer scripts and metadata with SMbootFX 2.2.0 baseline.
-*   Included preview assets and auto-update configuration.
+*   Updated boot animation assets to the 2.2.0 release baseline.
+*   Synced installer scripts, metadata, and packaging with SMbootFX 2.2.0 standards.
+*   Included refreshed preview media and auto-update configuration.
 
 ## 2.1.0 SMbootFX
 * 22.10.2025 20:45
