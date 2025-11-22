@@ -1,0 +1,7 @@
+id=oneplus_boot_qmg
+name=oneplus bootFX
+version=2.2.0
+versionCode=220
+author=John0n1
+description=OnePlus Cyberpunk Themed Boot Animation for Samsung Devices 
+updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/oneplus-bootfx/update.json

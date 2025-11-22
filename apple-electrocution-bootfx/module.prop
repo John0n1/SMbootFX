@@ -1,7 +1,7 @@
 id=apple_electrocution_boot_qmg
 name=Apple Electrocution SMbootFX
-version=2.1.0
-versionCode=210
+version=2.2.0
+versionCode=220
 author=John0n1
 description=Apple Electrocution boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/apple-electrocution-bootfx/update.json
