@@ -44,6 +44,7 @@ Implements custom boot animations in .QMG format on Samsung Galaxy devices using
 | **Iron Man** | ![Iron Man Preview](examples/iron-man-bootfx.gif) | [iron-man-bootfx-2.2.0-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.2.0/iron-man-bootfx-2.2.0-magisk.zip) | John0n1 |
 | **Marvel Avengers Sequence** | ![Marvel Avengers Preview](examples/marvel-avengers-sequence-bootfx.gif) | [marvel-avengers-sequence-bootfx-2.2.0-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.2.0/marvel-avengers-sequence-bootfx-2.2.0-magisk.zip) | John0n1 |
 | **Xbox One** | ![Xbox One Preview](examples/xbox-bootfx.gif) | [xbox-one-bootfx-2.2.0-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.2.0/xbox-one-bootfx-2.2.0-magisk.zip) | John0n1 |
+| **Valorant** | ![Valorant Preview](examples/valorant-bootfx.gif) | [valorant-bootfx-2.2.0-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/2.2.0/valorant-bootfx-2.2.0-magisk.zip) | John0n1 |
 | **More coming soon!** | | | |
 
 ## Important Distinctions
@@ -102,5 +103,3 @@ Feel free to open an issue for bug reports, feature requests, or new theme sugge
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-![Xbox One Preview](examples/xbox-bootfx.gif)
