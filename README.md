@@ -9,6 +9,7 @@ Implements custom boot animations in .QMG format on Samsung Galaxy devices using
 
 - [![Android 6-16](https://img.shields.io/badge/Android%206--16-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 
+<img width="1280" height="640" alt="smbootfx-banner" src="https://github.com/user-attachments/assets/708cc926-d4a8-4435-ae89-91bdb5564e1c" />
 
 
 ## Available Themes
