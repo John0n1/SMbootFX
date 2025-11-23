@@ -50,7 +50,7 @@ Implements custom boot animations in .QMG format on Samsung Galaxy devices using
 ## Important Distinctions
 
 1. This project targets the **boot animation** that plays after the bootloader logo, during the Android system startup.
-2. Newer Samsung devices use the .QMG ("Quick Media Graphics") format, which is **not compatible** with non-Samsung devices.
+2. Newer Samsung devices use the .QMG ("Qmage-encoded image/animation") format, which is **not compatible** with non-Samsung devices.
 3. These Magisk modules provide custom animations in a compatible .QMG format.
 4. Modules include an auto-backup feature to safeguard your original Samsung boot animation files.
 
