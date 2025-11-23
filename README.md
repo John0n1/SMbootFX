@@ -78,9 +78,24 @@ Implements custom boot animations in .QMG format on Samsung Galaxy devices using
 
 ## Troubleshooting
 
-- If the animation doesn't change, ensure Magisk is properly installed and the module is enabled.
-- For installation issues, check Magisk logs or try reinstalling the module.
-- If problems persist, disable the module in Magisk and reboot to restore the original animation.
+### Installation Fails
+If you encounter "Installation failed" when trying to install a module:
+1. **Update Magisk**: Ensure you're running Magisk 27.0 or newer. Older versions may not be compatible.
+2. **Check device compatibility**: This module only works on Samsung devices with `.qmg` boot animation files.
+3. **Verify files exist**: Check if your device has `/system/media/bootsamsung.qmg` (or similar files in `/vendor/media/`).
+4. **Check logs**: After installation, check `/data/local/tmp/bootfx_install.log` for detailed error messages.
+5. **Clear Magisk cache**: In Magisk settings, try clearing the app data and reinstalling.
+
+### Boot Animation Doesn't Change
+- Ensure Magisk is properly installed and the module is **enabled** in Magisk Manager.
+- Verify the module installed successfully by checking for a green checkmark.
+- Some devices may require a **second reboot** for changes to take effect.
+- Check if another boot animation module is installed and conflicting.
+
+### Other Issues
+- **Original animation restored**: The module includes auto-backup. If something goes wrong, your original files are backed up to `/data/local/tmp/bootfx_backup/`.
+- **Module conflicts**: Only install **one** boot animation module at a time. Uninstall any previous boot animation modules before installing a new one.
+- **Logs**: Check `/data/local/tmp/bootfx.log` for runtime information after the device boots.
 
 # Supported Devices
 
