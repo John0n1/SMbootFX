@@ -16,7 +16,7 @@ log_install() {
 
 # Print module information
 ui_print " ╔═════════════════════════════╗ "
-ui_print " │       SMbootFX 2.2.0        │ "
+ui_print " │       SMbootFX 2.2.1        │ "
 ui_print " │         by John0n1          │ "
 ui_print " │ https://github.com/John0n1/ │ "
 ui_print " ╚═════════════════════════════╝ "

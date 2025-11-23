@@ -1,5 +1,14 @@
 # Boot Animation Changelog
 
+## 2.2.1 SMbootFX
+* 23.11.2025 02:38
+*   **CRITICAL FIX**: Fixed "Installation failed" error in Magisk module installer.
+*   Refactored customize.sh to execute code directly instead of using uncalled functions.
+*   Added error suppression for backup operations to prevent installation failures.
+*   Improved compatibility with Magisk 24+ installer framework.
+*   Enhanced README with detailed troubleshooting steps for installation issues.
+
+
 ## 2.2.0 SMbootFX
 * 23.11.2025 09:00
 *   Updated boot animation assets to the 2.2.0 release baseline.
