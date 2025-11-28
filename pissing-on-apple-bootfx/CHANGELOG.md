@@ -1,9 +1,9 @@
 # Boot Animation Changelog
 
-## 3.0.1 SMbootFX
+## 3.0.2 SMbootFX
 * 23.11.2025 09:00
 *   Added "Pissing on Apple" themed boot and shutdown animations.
-*   Synced installer scripts and metadata with SMbootFX 3.0.1 baseline.
+*   Synced installer scripts and metadata with SMbootFX 3.0.2 baseline.
 *   Included preview assets and auto-update configuration.
 
 ## 2.1.0 SMbootFX
@@ -14,7 +14,7 @@
 *   Fixed compatibility issues with latest Android versions.
 *   Improved backup and restore functionality.
 
-## 3.0.1 SMbootFX
+## 3.0.2 SMbootFX
 * 27.11.2025 07:50
 *   Expanded boot animation library with the addition of four new animations.
 *   Enhanced backup functionality for improved reliability.

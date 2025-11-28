@@ -1,6 +1,6 @@
 # Boot Animation Changelog
 
-## 3.0.1 SMbootFX
+## 3.0.2 SMbootFX
 * 04.10.2025
 *   Added the AOKP Magical boot animation to the SMbootFX collection.
 *   Enhanced backup functionality for improved reliability.

@@ -1,6 +1,6 @@
 # Boot Animation Changelog
 
-## 3.0.1 SMbootFX
+## 3.0.2 SMbootFX
 * 21.09.2025 21:11
 *   Added the Android KitKat Easter Egg boot animation to the SMbootFX collection.
 *   Enhanced backup functionality for improved reliability.
