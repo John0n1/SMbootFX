@@ -17,7 +17,7 @@ log_install() {
 # Function to print messages
 print_modname() {
   ui_print " ╔═════════════════════════════╗ "
-  ui_print " │       SMbootFX 2.2.0        │ "
+  ui_print " │       SMbootFX 3.0.1        │ "
   ui_print " │         by John0n1          │ "
   ui_print " │ https://github.com/John0n1/ │ "
   ui_print " ╚═════════════════════════════╝ "

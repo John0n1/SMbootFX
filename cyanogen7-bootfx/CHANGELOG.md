@@ -1,10 +1,13 @@
 # Boot Animation Changelog
 
-## 2.2.0 SMbootFX
-* 23.11.2025 09:00
-*   Updated boot animation assets to the 2.2.0 release baseline.
-*   Synced installer scripts, metadata, and packaging with SMbootFX 2.2.0 standards.
-*   Included refreshed preview media and auto-update configuration.
+## 3.0.1 SMbootFX
+* 25.11.2025 18:30
+*   Added OnePlus Cyberpunk themed boot animation.
+*   Added ASOP themed boot animation.
+*   Added Cyanogenmod themed boot animation.
+*   Updated module description and metadata.
+*   Improved logging and error handling mechanisms.
+*   Enhanced compatibility with latest Magisk versions.
 
 ## 2.1.0 SMbootFX
 * 22.10.2025 20:45
@@ -14,8 +17,8 @@
 *   Fixed compatibility issues with latest Android versions.
 *   Improved backup and restore functionality.
 
-## 2.0.3 SMbootFX
-* 21.09.2025 21:11
+## 3.0.1 SMbootFX
+* 27.11.2025 07:50
 *   Expanded boot animation library with the addition of four new animations.
 *   Enhanced backup functionality for improved reliability.
 *   Implemented optimizations across various processes.

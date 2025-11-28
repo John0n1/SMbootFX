@@ -57,4 +57,4 @@ fi
 
 ui_print "- Android boot animation removed successfully"
 ui_print "- Reboot to apply changes"
-log_uninstall "=== SMbootFX Uninstallation Completed ==="
+log_uninstall "=== SMbootFX Uninstallation Completed ===" 
