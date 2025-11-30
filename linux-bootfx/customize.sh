@@ -1,6 +1,6 @@
 #!/sbin/sh
 
-# Linux Boot Animation Installer
+# Boot Animation Installer
 SKIPMOUNT=false
 PROPFILE=false
 POSTFSDATA=false
@@ -68,7 +68,7 @@ on_install() {
   check_compatibility
   backup_originals
   
-  ui_print "- Installing Linux boot animation..."
+  ui_print "- Installing Boot animation..."
   ui_print "- Files will be overlayed via Magisk"
   ui_print "- Reboot to apply changes"
   ui_print ""

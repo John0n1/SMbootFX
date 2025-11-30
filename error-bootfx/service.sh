@@ -11,4 +11,4 @@ if [ ! -f "/system/media/bootsamsung.qmg" ]; then
 fi
 
 # Optional: Set specific properties for this theme
-resetprop ro.bootanim.theme "linux"
+resetprop ro.bootanim.theme "error"

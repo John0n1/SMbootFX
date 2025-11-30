@@ -3,7 +3,7 @@
 # This runs during boot to ensure proper animation loading
 
 # Log boot animation load
-echo "$(date): Boot animation loaded" >> /data/local/tmp/bootfx.log
+echo "$(date): boot animation loaded" >> /data/local/tmp/bootfx.log
 
 # Verify animation files exist
 if [ ! -f "/system/media/bootsamsung.qmg" ]; then
@@ -11,4 +11,4 @@ if [ ! -f "/system/media/bootsamsung.qmg" ]; then
 fi
 
 # Optional: Set specific properties for this theme
-resetprop ro.bootanim.theme "linux"
+resetprop ro.bootanim.theme "windows"

@@ -1,6 +1,6 @@
 #!/sbin/sh
 
-# Linux Boot Animation Installer
+# Boot Animation Installer
 SKIPMOUNT=false
 PROPFILE=false
 POSTFSDATA=false

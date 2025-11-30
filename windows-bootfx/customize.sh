@@ -68,7 +68,7 @@ on_install() {
   check_compatibility
   backup_originals
   
-  ui_print "- Installing Boot animation..."
+  ui_print "- Installing boot animation..."
   ui_print "- Files will be overlayed via Magisk"
   ui_print "- Reboot to apply changes"
   ui_print ""
