@@ -1,10 +1,24 @@
-# SMbootFX - Custom Samsung Boot Animations
+<div align="center">
+  <h1>SMbootFX - Custom Samsung Boot Animations</h1>
+</div>
 
+<div align="center">
+  
+### Merry Christmas! 🎅
+  
+<img width="360" height="450" alt="image" src="https://github.com/user-attachments/assets/5ed40baf-b9fe-4cfb-be3d-f92d276fb3c6" />
+
+________________________________________________________________
+</div>
+
+<div align="center">
 Implements custom boot animations in `.qmg` format on Samsung devices with Magisk/KernelSU.
 
 These modules replace the default boot animation with themed ones, offering a personalized startup and shutdown experience.
+</div>
 
-**All themes are provided as ready-to-flash Magisk modules.**
+<div align="center">
+  <h3>All themes are provided as ready-to-flash Magisk modules</h3>
 
 [![Magisk 27+](https://img.shields.io/badge/Magisk-27+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
 [![Samsung](https://img.shields.io/badge/Samsung-OneUI-000000?style=flat&logo=samsung&logoColor=white)](#supported-devices) 
@@ -13,9 +27,8 @@ These modules replace the default boot animation with themed ones, offering a pe
 **See [Supported Devices](#supported-devices)**
 ________________________________________________________________
 
-
-| Theme | Preview | Download | Credits |
-|-------|---------|----------|---------|
+| Theme | Preview | Download |
+|-------|---------|----------|
 | **Android - Purple** | <img src="examples/android-purple-bootfx.gif" alt="Android Purple" width="160"> | [android-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-bootfx-3.0.3-magisk.zip) |  |
 | **Android - Red** | <img src="examples/android-bootfx.gif" alt="Android Red" width="160"> | [android-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-red-bootfx-3.0.3-magisk.zip) |  |
 | **Android Green** | <img src="examples/android-green-on-black-bootfx.gif" alt="Android Green on Black" width="160"> | [android-green-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-green-on-black-bootfx-3.0.3-magisk.zip) |  |
@@ -52,6 +65,7 @@ ________________________________________________________________
 | **Marvel Thor Dark World (Revision)** | <img src="examples/marvel-thor-bootfx.gif" alt="Marvel Thor Dark World" width="160"> | [marvel-thor-dark-world-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-thor-dark-world-bootfx-3.0.3-magisk.zip) |  |
 | **Star Trek Twist (Revision)** | <img src="examples/star-trek-twist-bootfx.gif" alt="Star Trek Twist" width="160"> | [star-trek-twist-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/star-trek-twist-bootfx-3.0.3-magisk.zip) |  |
 | *More coming soon!* |  |  |  |
+</div>
 
 ## Important Distinctions
 
