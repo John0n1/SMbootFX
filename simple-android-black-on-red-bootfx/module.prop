@@ -1,7 +1,7 @@
 id=simple_android_black_on_red_boot_qmg
 name=Simple Android Black on Red SMbootFX
-version=3.0.2
-versionCode=302
+version=3.0.3
+versionCode=303
 author=John0n1
 description=Simple Android Black on Red boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/simple-android-black-on-red-bootfx/update.json

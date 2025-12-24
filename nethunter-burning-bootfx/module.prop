@@ -1,7 +1,7 @@
 id=nethunter_burning_boot_qmg
 name=Nethunter Burning bootFX
-version=3.0.2
-versionCode=302
+version=3.0.3
+versionCode=303
 author=John0n1
 description=Nethunter's burning themed Boot Animation for Samsung Devices 
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/nethunter-burning-bootfx/update.json

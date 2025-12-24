@@ -11,22 +11,22 @@ if [ -d "$BACKUP_DIR" ]; then
   
   if [ -f "$BACKUP_DIR/bootsamsung.qmg.bak" ]; then
     cp "$BACKUP_DIR/bootsamsung.qmg.bak" "/system/media/bootsamsung.qmg"
-    ui_print "✓ Original bootsamsung.qmg restored"
+    ui_print "OK Original bootsamsung.qmg restored"
   fi
   
   if [ -f "$BACKUP_DIR/bootsamsungloop.qmg.bak" ]; then
     cp "$BACKUP_DIR/bootsamsungloop.qmg.bak" "/system/media/bootsamsungloop.qmg"
-    ui_print "✓ Original bootsamsungloop.qmg restored"
+    ui_print "OK Original bootsamsungloop.qmg restored"
   fi
   
   if [ -f "$BACKUP_DIR/shutdown.qmg.bak" ]; then
     cp "$BACKUP_DIR/shutdown.qmg.bak" "/system/media/shutdown.qmg"
-    ui_print "✓ Original shutdown.qmg restored"
+    ui_print "OK Original shutdown.qmg restored"
   fi
   
   # Clean up backup directory
   rm -rf "$BACKUP_DIR"
-  ui_print "✓ Backup files cleaned up"
+  ui_print "OK Backup files cleaned up"
 fi
 
 # Clean up logs

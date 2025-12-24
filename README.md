@@ -16,41 +16,42 @@ ________________________________________________________________
 
 | Theme | Preview | Download | Credits |
 |-------|---------|----------|---------|
-| **Android - Purple** | ![Android Purple](examples/android-purple-bootfx.gif) | [android-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/android-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **Android - Red** | ![Android Red](examples/android-bootfx.gif) | [android-red-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/android-red-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **Android Green** | ![Android Green on Black](examples/android-green-on-black-bootfx.gif) | [android-green-on-black-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/android-green-on-black-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **MIUI Blue Android on Black** | ![MIUI Blue Android on Black](examples/miui-blue-android-on-black-bootfx.gif) | [miui-blue-android-on-black-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/miui-blue-android-on-black-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **MIUI White Android on Black** | ![MIUI White Android on Black](examples/miui-white-android-on-black-bootfx.gif) | [miui-white-android-on-black-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/miui-white-android-on-black-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **MIUI White Android on Blue** | ![MIUI White Android on Blue](examples/miui-white-android-on-blue-bootfx.gif) | [miui-white-android-on-blue-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/miui-white-android-on-blue-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **Reactor BootAni (Revision)** | ![Reactor BootAni Revision](examples/reactor-bootani-revision-bootfx.gif) | [reactor-bootani-revision-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/reactor-bootani-revision-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **Cyanogen Android** | ![Cyanogen Android](examples/cyanogen-android-bootfx.gif) | [green-android-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/green-android-bootfx-3.0.2-magisk.zip) | **(XDA)** Unkown |
-| **Cyanogen Dark Boot Logo** | ![Cyanogen Dark](examples/cyanogen-dark-boot-logo-bootfx.gif) | [white-on-black-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/white-on-black-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **Simple Android Black on Red** | ![Simple Android Black on Red](examples/simple-android-black-on-red-bootfx.gif) | [simple-android-black-on-red-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/simple-android-black-on-red-bootfx-3.0.2-magisk.zip) | **(XDA)** Melissa Pugs |
-| **KitKat - Classic** | ![KitKat Classic](examples/kitkat-bootfx.gif) | [kitkat-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/kitkat-bootfx-3.0.2-magisk.zip) | **(XDA)** Unknown |
-| **AOKP** | ![AOKP](examples/aokp-bootfx.gif) | [aokp-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/aokp-bootfx-3.0.2-magisk.zip) | **(XDA)** PartimusPrime |
-| **AOKP Magical** | ![AOKP Magical](examples/aokp-magical-bootfx.gif) | [aokp-magical-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/aokp-magical-bootfx-3.0.2-magisk.zip) | **(XDA)** PartimusPrime |
-| **Apple - Static** | ![Apple Static](examples/apple-bootfx.png) | [apple-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/apple-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **Apple Electrocution** | ![Apple Electrocution](examples/apple-electrocution-bootfx.gif) | [apple-electrocution-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/apple-electrocution-bootfx-3.0.2-magisk.zip) | ***JaeKar99*** |
-| **Blue Lines A** | ![Blue Lines A](examples/blue-lines-a-bootfx.gif) | [blue-lines-a-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/blue-lines-a-bootfx-3.0.2-magisk.zip) | ***JaeKar99*** |
-| **CTOS - Watchdogs** | ![CTOS](examples/ctos-bootfx.gif) | [ctos-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/ctos-bootfx-3.0.2-magisk.zip) | **(kali.org)** OffSec Services |
-| **NetHunter** | ![NetHunter](examples/nethunter-bootfx.gif) | [nethunter-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/nethunter-bootfx-3.0.2-magisk.zip) | **(kali.org)** OffSec Services |
-| **NetHunter - Glitch** | <img src="examples/nethunter-glitch-bootfx.gif" alt="NetHunter Glitch" width="160"> | [nethunter-glitch-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/nethunter-glitch-bootfx-3.0.2-magisk.zip) | **(kali.org)** OffSec Services |
-| **NetHunter - Burning** | <img src="examples/nethunter-burning-bootfx.gif" alt="NetHunter Burning" width="160"> | [nethunter-burning-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/nethunter-burning-bootfx-3.0.2-magisk.zip) | **(kali.org)** OffSec Services |
-| **CyanogenMod 7** | ![CyanogenMod 7](examples/cyanogen-bootfx.gif) | [cyanogen7-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/cyanogen7-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **OnePlus Cyberpunk** | ![OnePlus Cyberpunk](examples/oneplus-bootfx.gif) | [oneplus-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/oneplus-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **Pixel** | <img src="examples/pixel-bootfx.gif" alt="Pixel" width="160"> | [pixel-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/pixel-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **Windows** | <img src="examples/windows-bootfx.gif" alt="Windows" width="160"> | [windows-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/windows-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **Error** | <img src="examples/error-bootfx.gif" alt="Error" width="160"> | [error-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/error-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **Valorant** | ![Valorant](examples/valorant-bootfx.gif) | [valorant-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/valorant-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **EA Game's** | ![EA Games](examples/ea-bootfx.gif) | [ea-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/ea-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **Xbox One** | ![Xbox One](examples/xbox-bootfx.gif) | [xbox-one-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/xbox-one-bootfx-3.0.2-magisk.zip) | ***John0n1*** |
-| **S.H.I.E.L.D.** | ![S.H.I.E.L.D.](examples/shield-bootfx.gif) | [shield-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/shield-bootfx-3.0.2-magisk.zip) | **(XDA)** Unknown |
-| **Simpsons** | ![Simpsons](examples/simpsons-bootfx.gif) | [simpsons-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/simpsons-bootfx-3.0.2-magisk.zip) | **(XDA)** JaeKarr99 & KachowPow |
-| **Iron Man** | ![Iron Man](examples/iron-man-bootfx.gif) | [iron-man-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/iron-man-bootfx-3.0.2-magisk.zip) | **(XDA)** JaeKarr99 |
-| **Linux/Android** | ![Linux/Android](examples/linux-bootfx.gif) | [linux-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/linux-bootfx-3.0.2-magisk.zip) | **(XDA)** JaeKarr99 |
-| **Marvel Avengers Sequence** | ![Marvel Avengers](examples/marvel-avengers-sequence-bootfx.gif) | [marvel-avengers-sequence-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/marvel-avengers-sequence-bootfx-3.0.2-magisk.zip) | **(XDA)** Unknown |
-| **Superhero** | ![Superhero](examples/superhero-bootfx.gif) | [superhero-bootfx-3.0.2-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.2/superhero-bootfx-3.0.2-magisk.zip) | **(XDA)** Unkown |
-|  *More coming soon!* |  |  |  |
+| **Android - Purple** | <img src="examples/android-purple-bootfx.gif" alt="Android Purple" width="160"> | [android-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-bootfx-3.0.3-magisk.zip) |  |
+| **Android - Red** | <img src="examples/android-bootfx.gif" alt="Android Red" width="160"> | [android-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-red-bootfx-3.0.3-magisk.zip) |  |
+| **Android Green** | <img src="examples/android-green-on-black-bootfx.gif" alt="Android Green on Black" width="160"> | [android-green-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-green-on-black-bootfx-3.0.3-magisk.zip) |  |
+| **Android White on Plum** | <img src="examples/android-white-on-plum-bootfx.gif" alt="Android White on Plum" width="160"> | [android-white-on-plum-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-white-on-plum-bootfx-3.0.3-magisk.zip) |  |
+| **MIUI Blue Android on Black** | <img src="examples/miui-blue-android-on-black-bootfx.gif" alt="MIUI Blue Android on Black" width="160"> | [miui-blue-android-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/miui-blue-android-on-black-bootfx-3.0.3-magisk.zip) |  |
+| **MIUI Black Android on Pink** | <img src="examples/miui-black-on-pink-bootfx.gif" alt="MIUI Black Android on Pink" width="160"> | [miui-black-android-on-pink-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/miui-black-android-on-pink-bootfx-3.0.3-magisk.zip) |  |
+| **MIUI White Android on Black** | <img src="examples/miui-white-android-on-black-bootfx.gif" alt="MIUI White Android on Black" width="160"> | [miui-white-android-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/miui-white-android-on-black-bootfx-3.0.3-magisk.zip) |  |
+| **MIUI White Android on Blue** | <img src="examples/miui-white-android-on-blue-bootfx.gif" alt="MIUI White Android on Blue" width="160"> | [miui-white-android-on-blue-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/miui-white-android-on-blue-bootfx-3.0.3-magisk.zip) |  |
+| **Cyanogen Android** | <img src="examples/cyanogen-android-bootfx.gif" alt="Cyanogen Android" width="160"> | [green-android-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/green-android-bootfx-3.0.3-magisk.zip) |  |
+| **Simple Android Black on Red** | <img src="examples/simple-android-black-on-red-bootfx.gif" alt="Simple Android Black on Red" width="160"> | [simple-android-black-on-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/simple-android-black-on-red-bootfx-3.0.3-magisk.zip) |  |
+| **KitKat - Classic** | <img src="examples/kitkat-bootfx.gif" alt="KitKat Classic" width="160"> | [kitkat-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/kitkat-bootfx-3.0.3-magisk.zip) |  |
+| **AOKP** | <img src="examples/aokp-bootfx.gif" alt="AOKP" width="160"> | [aokp-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/aokp-bootfx-3.0.3-magisk.zip) |  |
+| **AOKP Magical** | <img src="examples/aokp-magical-bootfx.gif" alt="AOKP Magical" width="160"> | [aokp-magical-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/aokp-magical-bootfx-3.0.3-magisk.zip) |  |
+| **Cyanogen Dark Boot Logo** | <img src="examples/cyanogen-dark-boot-logo-bootfx.gif" alt="Cyanogen Dark" width="160"> | [white-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/white-on-black-bootfx-3.0.3-magisk.zip) |  |
+| **Apple - Static** | <img src="examples/apple-bootfx.png" alt="Apple Static" width="160"> | [apple-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/apple-bootfx-3.0.3-magisk.zip) |  |
+| **Apple Electrocution** | <img src="examples/apple-electrocution-bootfx.gif" alt="Apple Electrocution" width="160"> | [apple-electrocution-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/apple-electrocution-bootfx-3.0.3-magisk.zip) |  |
+| **Blue Lines A** | <img src="examples/blue-lines-a-bootfx.gif" alt="Blue Lines A" width="160"> | [blue-lines-a-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/blue-lines-a-bootfx-3.0.3-magisk.zip) |  |
+| **CTOS - Watchdogs** | <img src="examples/ctos-bootfx.gif" alt="CTOS" width="160"> | [ctos-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/ctos-bootfx-3.0.3-magisk.zip) |  |
+| **NetHunter** | <img src="examples/nethunter-bootfx.gif" alt="NetHunter" width="160"> | [nethunter-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-bootfx-3.0.3-magisk.zip) |  |
+| **NetHunter - Glitch** | <img src="examples/nethunter-glitch-bootfx.gif" alt="NetHunter Glitch" width="160"> | [nethunter-glitch-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-glitch-bootfx-3.0.3-magisk.zip) |  |
+| **NetHunter - Burning** | <img src="examples/nethunter-burning-bootfx.gif" alt="NetHunter Burning" width="160"> | [nethunter-burning-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-burning-bootfx-3.0.3-magisk.zip) |  |
+| **CyanogenMod 7** | <img src="examples/cyanogen-bootfx.gif" alt="CyanogenMod 7" width="160"> | [cyanogen7-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/cyanogen7-bootfx-3.0.3-magisk.zip) |  |
+| **OnePlus Cyberpunk** | <img src="examples/oneplus-bootfx.gif" alt="OnePlus Cyberpunk" width="160"> | [oneplus-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/oneplus-bootfx-3.0.3-magisk.zip) |  |
+| **Pixel** | <img src="examples/pixel-bootfx.gif" alt="Pixel" width="160"> | [pixel-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/pixel-bootfx-3.0.3-magisk.zip) |  |
+| **Windows** | <img src="examples/windows-bootfx.gif" alt="Windows" width="160"> | [windows-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/windows-bootfx-3.0.3-magisk.zip) |  |
+| **Error** | <img src="examples/error-bootfx.gif" alt="Error" width="160"> | [error-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/error-bootfx-3.0.3-magisk.zip) |  |
+| **Valorant** | <img src="examples/valorant-bootfx.gif" alt="Valorant" width="160"> | [valorant-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/valorant-bootfx-3.0.3-magisk.zip) |  |
+| **EA Game's** | <img src="examples/ea-bootfx.gif" alt="EA Games" width="160"> | [ea-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/ea-bootfx-3.0.3-magisk.zip) |  |
+| **Xbox One** | <img src="examples/xbox-bootfx.gif" alt="Xbox One" width="160"> | [xbox-one-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/xbox-one-bootfx-3.0.3-magisk.zip) |  |
+| **S.H.I.E.L.D.** | <img src="examples/shield-bootfx.gif" alt="S.H.I.E.L.D." width="160"> | [shield-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/shield-bootfx-3.0.3-magisk.zip) |  |
+| **Simpsons** | <img src="examples/simpsons-bootfx.gif" alt="Simpsons" width="160"> | [simpsons-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/simpsons-bootfx-3.0.3-magisk.zip) |  |
+| **Linux/Android** | <img src="examples/linux-bootfx.gif" alt="Linux/Android" width="160"> | [linux-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/linux-bootfx-3.0.3-magisk.zip) |  |
+| **Marvel DC Clash** | <img src="examples/marvel-dc-bootfx.gif" alt="Marvel DC Clash" width="160"> | [marvel-dc-clash-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-dc-clash-bootfx-3.0.3-magisk.zip) |  |
+| **Marvel Thor Dark World (Revision)** | <img src="examples/marvel-thor-bootfx.gif" alt="Marvel Thor Dark World" width="160"> | [marvel-thor-dark-world-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-thor-dark-world-bootfx-3.0.3-magisk.zip) |  |
+| **Star Trek Twist (Revision)** | <img src="examples/star-trek-twist-bootfx.gif" alt="Star Trek Twist" width="160"> | [star-trek-twist-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/star-trek-twist-bootfx-3.0.3-magisk.zip) |  |
+| *More coming soon!* |  |  |  |
 
 ## Important Distinctions
 
@@ -84,6 +85,7 @@ ________________________________________________________________
 ## Troubleshooting
 
 - If the animation doesn't change, ensure Magisk is properly installed and the module is enabled.
+- KernelSU Next 3.0+ requires a metamodule (e.g. `meta-overlayfs`) for modules to mount; install it in KernelSU Manager, then reinstall this module.
 - For installation issues, check Magisk logs or try reinstalling the module.
 - If problems persist, disable the module in Magisk and reboot to restore the original animation.
 
@@ -124,3 +126,4 @@ The .qmg files used in this project are made by various creators, and credits ar
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+

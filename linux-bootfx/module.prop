@@ -1,7 +1,7 @@
 id=linux_boot_qmg
 name=BootFX
-version=3.0.2
-versionCode=302
+version=3.0.3
+versionCode=303
 author=John0n1
 description=Verbose Linux themed boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/linux-bootfx/update.json

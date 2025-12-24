@@ -1,7 +1,7 @@
 id=android_black_on_pink_boot_qmg
 name=Android Black on Pink SMbootFX
-version=3.0.2
-versionCode=302
+version=3.0.3
+versionCode=303
 author=John0n1
 description=Android Black on Pink boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/android-black-on-pink-bootfx/update.json

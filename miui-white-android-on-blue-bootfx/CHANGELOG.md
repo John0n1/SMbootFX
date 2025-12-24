@@ -1,5 +1,12 @@
 # Boot Animation Changelog
 
+## 3.0.3 SMbootFX
+
+* 23.12.2025 15:23
+*   Added KernelSU Next metamodule requirement check during install.
+*   Normalized installer script formatting and permissions.
+
+
 ## 3.0.2 SMbootFX
 * 04.10.2025
 *   Added the MIUI White Android on Blue boot animation to the SMbootFX collection.
