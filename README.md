@@ -2,11 +2,7 @@
   <h1>SMbootFX - Custom Samsung Boot Animations</h1>
 </div>
 
-<div align="center">
   
-### Merry Christmas! 🎅
-  
-<img width="360" height="450" alt="image" src="https://github.com/user-attachments/assets/5ed40baf-b9fe-4cfb-be3d-f92d276fb3c6" />
 
 ________________________________________________________________
 </div>
@@ -63,7 +59,8 @@ ________________________________________________________________
 | **Linux/Android** | <img src="examples/linux-bootfx.gif" alt="Linux/Android" width="160"> | [linux-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/linux-bootfx-3.0.3-magisk.zip) |  |
 | **Marvel DC Clash** | <img src="examples/marvel-dc-bootfx.gif" alt="Marvel DC Clash" width="160"> | [marvel-dc-clash-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-dc-clash-bootfx-3.0.3-magisk.zip) |  |
 | **Marvel Thor Dark World (Revision)** | <img src="examples/marvel-thor-bootfx.gif" alt="Marvel Thor Dark World" width="160"> | [marvel-thor-dark-world-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-thor-dark-world-bootfx-3.0.3-magisk.zip) |  |
-| **Star Trek Twist (Revision)** | <img src="examples/star-trek-twist-bootfx.gif" alt="Star Trek Twist" width="160"> | [star-trek-twist-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/star-trek-twist-bootfx-3.0.3-magisk.zip) |  |
+| **Star Trek Twist (Revision)** | <img src="examples/star-trek-twist-bootfx.gif" alt="Star Trek Twist" width="160"> | [star-trek-twist-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/star-trek-twist-bootfx-3.0.3-magisk.zip) | 
+| **Dedsec Boot** | <img src="examples/dedsec-bootfx.gif" alt="Dedsec" width="160"> | [dedsec-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/dedsec-bootfx-3.0.3-magisk.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 
