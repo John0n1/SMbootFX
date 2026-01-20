@@ -2,10 +2,6 @@
   <h1>SMbootFX - Custom Samsung Boot Animations</h1>
 </div>
 
-  
-
-________________________________________________________________
-</div>
 
 <div align="center">
 Implements custom boot animations in `.qmg` format on Samsung devices with Magisk/KernelSU.
