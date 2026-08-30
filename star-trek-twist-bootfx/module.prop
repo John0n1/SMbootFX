@@ -1,7 +1,7 @@
 id=star_trek_twist_boot_qmg
 name=Star Trek Twist SMbootFX
-version=3.0.3
-versionCode=303
+version=3.1.0
+versionCode=310
 author=John0n1
 description=Star Trek Twist boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/star-trek-twist-bootfx/update.json

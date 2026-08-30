@@ -1,6 +1,6 @@
 #!/sbin/sh
 
-# Dedsec Boot Animation Uninstaller
+# CTOS Boot Animation Uninstaller
 ui_print "- Removing Dedsec boot animation..."
 
 # Restore backups if they exist
@@ -32,5 +32,5 @@ fi
 # Clean up logs
 rm -f /data/local/tmp/bootfx.log
 
-ui_print "- Dedsec boot animation removed successfully"
+ui_print "- CTOS boot animation removed successfully"
 ui_print "- Reboot to apply changes"

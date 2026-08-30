@@ -1,7 +1,7 @@
 id=valorant_boot_qmg
 name=Valorant SMbootFX
-version=3.0.3
-versionCode=303
+version=3.1.0
+versionCode=310
 author=John0n1
 description=Valorant themed boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/valorant-bootfx/update.json

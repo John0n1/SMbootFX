@@ -1,7 +1,7 @@
 id=marvel_dc_clash_boot_qmg
 name=Marvel DC Clash SMbootFX
-version=3.0.3
-versionCode=303
+version=3.1.0
+versionCode=310
 author=John0n1
 description=Marvel DC Clash boot & shutdown animations for Samsung devices via Magisk overlay
 updateJson=https://raw.githubusercontent.com/John0n1/SMbootFX/master/marvel-dc-clash-bootfx/update.json
