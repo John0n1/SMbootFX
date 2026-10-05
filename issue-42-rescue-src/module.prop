@@ -1,0 +1,6 @@
+id=ctos_boot_qmg_r42
+name=ctOS bootFX - Issue #42 Rescue
+version=3.0.3-r42.1
+versionCode=303421
+author=John0n1
+description=Issue #42 compatibility build using known-good CTOS QMGs and per-file global bind mounts; bypasses whole-/system OverlayFS.
